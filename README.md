@@ -3,11 +3,12 @@ A code repo for learning Javascript
 
 Courses:
 Chai Aur Code JS playlist from youtube 
-Roadmap created by Claude
 
 
 
-# 🟨 The Complete JavaScript Mastery Roadmap
+
+
+# 🟨 The Complete JavaScript Mastery Roadmap by Claude
 
 > A deep, end-to-end path from absolute fundamentals to expert-level JavaScript.
 > Nothing is skipped — even the "simple" topics are here, because mastery is built on a complete foundation.
