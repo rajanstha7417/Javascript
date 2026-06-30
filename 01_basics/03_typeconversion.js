@@ -34,3 +34,20 @@ Boolean("") false
 Boolean("raj") true
 */
 console.log(Number(null))
+
+console.log(1+"2")
+console.log("1"+2)
+
+
+console.log(1+2+"2")
+console.log("1"+2+2)
+
+/*
+prefix ++num -> add first and use/return
+postfix num++-> use first then add 
+
+*/
+
+let num=6
+console.log(num++) // it prints the number first and add 1 so now num is 1 after printing
+console.log(++num) //as num is 7 it adds 1 now num becomes 8 and print
